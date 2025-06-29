@@ -89,6 +89,6 @@ async function generateContent(prompt) {
   console.log(text);
   return text;
 
-}
+}}
 
-module.exports = generateContent    
+module.exports = generateContent ;
